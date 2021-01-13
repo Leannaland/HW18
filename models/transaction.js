@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const mongoPath = "mongodb+srv://cluster0.eorpq.mongodb.net/<Transaction>"
 
 const Schema = mongoose.Schema;
 
